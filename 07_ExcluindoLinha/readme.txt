@@ -1,0 +1,1 @@
+Dois cliques na linhar para excluir a linha.
